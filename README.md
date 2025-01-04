@@ -5,7 +5,13 @@ It is difficult to detect any attackers or bots accessing your IP address. As su
 
 ## How to Use
 
-1) Clone repository with ""
+1) Clone repository with
+
+```
+https://github.com/MeganTran6023/myHoneypot.git
+
+```
+
 2) In your terminal (I used gitbash), type "ssh-keygen -t rsa -b 2048 -f host_key" to generate the required host key.
 3) Run honeypot_MT.py
 
