@@ -9,11 +9,16 @@ It is difficult to detect any attackers or bots accessing your IP address. As su
 
 ```
 https://github.com/MeganTran6023/myHoneypot.git
-
 ```
 
-2) In your terminal (I used gitbash), type "ssh-keygen -t rsa -b 2048 -f host_key" to generate the required host key.
-3) Run honeypot_MT.py
+2) In your terminal (I used gitbash), type
+
+```
+ssh-keygen -t rsa -b 2048 -f host_key
+```
+
+to generate the required host key.
+4) Run honeypot_MT.py
 
 ## Future Goals
 
