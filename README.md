@@ -18,7 +18,8 @@ ssh-keygen -t rsa -b 2048 -f host_key
 ```
 
 to generate the required host key.
-4) Run honeypot_MT.py
+
+3) Run honeypot_MT.py
 
 ## Future Goals
 
